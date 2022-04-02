@@ -1,14 +1,13 @@
 <template>
   <div class="home">
+
+    <h1>
+      {{ $store.getters.message }}
+      {{ $store.getters.nombreCompleto }}
+    </h1>
+
+    <!-- Components  -->
     <titleApp/>
-
-    <div class="counter">
-        <h1>Quantity</h1>
-        <button @click="$store.commit('bajarContador')">-</button>
-        {{$store.state.counter}}
-        <button @click="$store.commit('aumentarContador')">+</button>
-    </div>
-
     <location/>
     <cakes/>
     <div class="extra">
@@ -45,6 +44,10 @@ export default {
 <style>
 body {
   margin: 0px 0px 20px 0px;
+}
+
+.home {
+  margin-top: 80px;
 }
 
 div {

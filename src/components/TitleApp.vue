@@ -26,8 +26,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.hello {
-  margin-top: 30px;
+* {
+  background-color: #ff6961;
 }
 h3 {
   margin: 40px 0 0;

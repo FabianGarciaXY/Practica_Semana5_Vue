@@ -44,5 +44,6 @@ export default {
         padding-bottom: 10px;
         padding-left: 40px;
         border-radius: 2px;
+        background-color: #fdfd96;
     }
 </style>
