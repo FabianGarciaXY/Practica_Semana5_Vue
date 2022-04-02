@@ -23,9 +23,25 @@ Lo requerido para esta práctica fue lo siguiente:
 ## Actividades
 ---
 
+Despliegue aqui: https://fabiangarciaxy.github.io/Practica_Semana5_Vue/#/
+
+
 Capturas:
 
+  Componentes de los pasteles: 
+  ![](./src/assets/images/Screenshot(1).png)
 
+  Componente de la ubicación:
+  ![](./src/assets/images/Screenshot.png)
 
-Despliegue de la pastelería
+  Componente de la seleccion de decoraciones y combinaciones:
+  ![](./src/assets/images/Screenshot(2).png)
+  
+  Formulario:
+  ![](./src/assets/images/Screenshot(3).png)
 
+  Existencias:
+  ![](./src/assets/images/Screenshot(4).png)
+
+  Pedidos:
+  ![](./src/assets/images/Screenshot(5).png)
